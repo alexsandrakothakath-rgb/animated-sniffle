@@ -1,0 +1,12 @@
+{
+  "name": "sghost-vps",
+  "version": "1.0.0",
+  "main": "vot.js",
+  "scripts": {
+    "start": "node vot.js"
+  },
+  "dependencies": {
+    "eris": "^0.17.2",
+    "dotenv": "^16.0.0"
+  }
+}
